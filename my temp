@@ -1,0 +1,93 @@
+/* Noob in Coding, Just started */
+//All required header files
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <sstream>
+#include <queue>
+#include <deque>
+#include <bitset>
+#include <iterator>
+#include <list>
+#include <stack>
+#include <map>
+#include <set>
+#include <functional>
+#include <numeric>
+#include <utility>
+#include <limits>
+#include <time.h>
+#include <math.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <assert.h>
+
+using namespace std;
+//
+#define ll                    long long
+#define int                   long long
+#define endl                    "\n"
+#define eb                    emplace_back
+#define clr(x)                x.clear()
+#define MOD                   1000000007
+#define Math_PI                  3.14159265358979323846
+#define MAX                   1e9
+#define MIN                   -1e9
+//vector
+#define vi                    vector<ll>
+#define vvi                   vector<vi>
+#define vb                    vector<bool>
+#define pb                    push_back
+#define pf                    push_front
+#define popb                  pop_back
+#define popf                  pop_front
+#define sort(v)               sort(v.begin(),v.end())
+#define sortr(v)              sort(v.rbegin(),v.rend())
+#define search(v,t)           std::binary_search(v.begin(),v.end(),t)
+#define lb(v,t)               std::lower_bound(v.begin(),v.end(),t)
+#define ub(v,t)               std::upper_bound(v.begin(),v.end(),t)
+//pair
+#define fi                    first
+#define sec                   second
+#define mp                    make_pair
+#define pii                   pair<ll,ll>
+//map
+#define mii                   map<ll, ll>
+#define umpii                 unordered_map<ll,ll>
+//priority queue
+#define maxHi                 priority_queue<ll>
+#define minHi                 priority_queue<ll,vector<ll>,greater<ll>>
+#define maxHpi                priority_queue<pair<ll,ll>>
+#define minHpi                priority_queue<pii,vector<pii>,greater<pii>>
+
+//comparision
+#define max(x,y)              (x>y)?x:y
+#define min(x,y)              (x<y)?x:y
+#define mini                  INT_MIN
+#define maxi                  INT_MAX
+//work
+
+//temporarily
+// cout<<fixed<<setprecision(10);
+//Some useful functions.
+
+//end
+//**************Code now, be calm, think your algo first, then write the code!!! Let's go!!!********//
+
+void abcd(){
+
+}
+
+int32_t main()
+{   std::ios::sync_with_stdio(false);cin.tie(NULL);
+
+    int tc;cin>>tc;
+    while(tc--){
+
+        abcd();
+    }
+	return 0;
+}
